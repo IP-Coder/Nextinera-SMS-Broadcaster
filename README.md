@@ -90,3 +90,5 @@ If you ever want to build on your own machine with Android Studio / SDK:
 ./gradlew assembleDebug
 # → app/build/outputs/apk/debug/app-debug.apk
 ```
+
+<!-- build trigger -->
