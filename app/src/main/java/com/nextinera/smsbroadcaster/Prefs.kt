@@ -12,7 +12,7 @@ object Prefs {
 
     // Pre-filled defaults so the app works right after install (edit in-app anytime).
     private const val DEFAULT_URL = "https://nextinera.com/sms/sms.php"
-    private const val DEFAULT_SECRET = "85985c4817acf64cc9fe9afc2f22bfdc0d972eaac97ff111"
+    private const val DEFAULT_SECRET = ""
 
     private fun sp(ctx: Context) =
         ctx.getSharedPreferences(FILE, Context.MODE_PRIVATE)
